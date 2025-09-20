@@ -1,4 +1,6 @@
-# 📈 RSI (Relative Strength Index) Calculator
+# 📈 RSI (Relative Strength Index) filtering
+
+<img width="369" height="168" alt="Screenshot 2025-09-20 153929" src="https://github.com/user-attachments/assets/5ec0fb91-4640-4894-8750-516dc1710ab2" />
 
 This is a small  project that helps you filtering  crypto or stock prices based on the **Relative Strength Index (RSI)** . RSI is a popular tool in trading that shows whether an asset might be **overbought** or **oversold**—basically helping you spot potential buying or selling opportunities.
 
